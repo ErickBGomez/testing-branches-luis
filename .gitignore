@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Ignorar configuraciones locales de Visual Studio Code
+.vscode
